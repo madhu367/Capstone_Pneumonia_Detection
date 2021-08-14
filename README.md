@@ -19,6 +19,6 @@
 
 The following models are compared
 
-* Mask R-CNN, based on Matterport Implementation
-* Semantic Segmentation Model using a custom network architecture with an Encoder/Decoder Network
-* Semantic Segmentation Model using a DenseNet backbone with Encoder/Decoder network
+* Mask R-CNN, based on Matterport Implementation - Model1_MRCNN_Pneumonia_Detection_MRCNN.ipynb
+* Semantic Segmentation Model using a custom network architecture with an Encoder/Decoder Network )(Model2_SSED_Pneumonia_Detection_Custom.ipynb)
+* Semantic Segmentation Model using a DenseNet backbone with Encoder/Decoder network (Model3_DNSED_Pneumonia_Detection_DenseNet.ipynb)
